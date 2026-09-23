@@ -1,4 +1,4 @@
-# Privacy policy draft — Minitel AutoConnect
+# Privacy policy — Minitel AutoConnect
 
 Minitel AutoConnect helps you renew your connection to the EMSE Wi-Fi portal. The app reads the current Wi-Fi network name to check that you are on the network you selected. iOS requires precise location permission for this Wi-Fi lookup; the app does not read or store your coordinates.
 
